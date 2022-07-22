@@ -1,0 +1,71 @@
+.header-color{
+    background-color: #355764;
+}
+.header-color a{
+    color: white;
+}
+.btn{
+    background-color: #FF6347;
+    color: black;
+    font-weight: bold;
+}
+.text-color1{
+    color: tomato
+}
+.text-color2{
+    color: salmon;
+    font-weight: 400;
+}
+.img-size img{
+    height: 300px;
+    
+}
+.card-img-size img{
+    height: 40%;
+    width: 40%;
+    border-radius: 40%;
+}
+.justy{
+    text-align: justify;
+}
+.ask-section-img img{
+    width: 400px;
+}
+
+.logo
+{
+  height: 7vh;
+}
+
+
+.list a{
+    text-decoration: none;
+    padding: 3px;
+    margin: 3px;
+    
+}
+.list-order li{
+    list-style: circle;
+}
+.footer{
+  background-color: #355764
+}
+.footer a{
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.copyright{
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+.bold{
+  font-weight: bold;
+}
+.color-tomato{
+  color: tomato;
+}
